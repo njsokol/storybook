@@ -1,3 +1,9 @@
+## 8.2.0-alpha.2
+
+- Controls: Throttling makes Color control lagging - [#22615](https://github.com/storybookjs/storybook/pull/22615), thanks @gitstart!
+- Docs: Fix `Typeset` Doc block `fontSizes` type - [#26475](https://github.com/storybookjs/storybook/pull/26475), thanks @noranda!
+- UI: Same html name for related Radio - [#23374](https://github.com/storybookjs/storybook/pull/23374), thanks @srapilly!
+
 ## 8.2.0-alpha.1
 
 - CLI: Add optional `--dev` and `--no-dev` options to `storybook init` CLI - [#26918](https://github.com/storybookjs/storybook/pull/26918), thanks @fastfrwrd!
